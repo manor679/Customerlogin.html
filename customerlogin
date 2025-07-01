@@ -49,7 +49,7 @@
   <div id="message"></div>
 
   <script>
-    const deploymentUrl = "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID_HERE/exec"; // Replace this
+    const deploymentUrl = "https://script.google.com/macros/s/AKfycbxyBpdJx8g-Y5ZrjKA3mFgpPuBCyTfqBqUu-8oEaJtBT_8_CYQVpSdEt_kQJv0PrmCBUg/exec";
 
     async function checkIn() {
       const userId = document.getElementById('userId').value.trim();
